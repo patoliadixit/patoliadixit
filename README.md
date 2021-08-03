@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @patoliadixit
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stack
+- 👀 I'm a Full stack developer with expertise in React and Nodejs.
 - 📫 How to reach me patoliadixit@gmail.com
 
 <!---
