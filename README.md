@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patoliadixit
+- 👋 Hi, I’m Dixit.
 - 👀 I'm a Full stack developer with expertise in React and Nodejs.
 - 📫 How to reach me patoliadixit@gmail.com
 <!---
